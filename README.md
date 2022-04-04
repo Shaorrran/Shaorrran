@@ -9,5 +9,5 @@ My name is Zakhar, but I prefer to be addressed online by my nickname. I am a se
 - How to reach me: 
   * Telegram: @sha0rrran
   * Discord: Shaorrran#2664
-  * Twitter: twitter.com/shaorrran
+  * Twitter: https://twitter.com/shaorrran
 - Fun fact: There is no place for fun facts anymore.
