@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there.
 
-<!--
-**Shaorrran/Shaorrran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Zakhar, but I prefer to be addressed online by my nickname. I am a second-year student at ITMO University (course: 45.03.04). My main specialization is Machine Learning, but I also have some experience in backend programming, writing Discord and Telegram bots, C++ and Linux administration (I am a proud Debian-based distro user for 5 years and counting). 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on tasks related to object-oriented programming, data visualization and other interesting topics, mostly university-issued.
+- I’m currently learning data analysis and visualization, object-oriented programming, machine learning, natural language processing, discrete maths or other related topics.
+- I’m looking for help with finding interships or other work opportunities. Contact me on any platform listed below.
+- My projects: most of my projects are listed on my Github profile (here), feel free to check out any repository you feel interested in.
+- How to reach me: 
+  * Telegram: @sha0rrran
+  * Discord: Shaorrran#2664
+  * Twitter: twitter.com/shaorrran
+- Fun fact: There is no place for fun facts anymore.
