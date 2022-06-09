@@ -1,7 +1,7 @@
 ### Hello there.
 
 
-My name is **Zakhar**, but I prefer to be addressed online by my nickname. I am a second-year student at ITMO University (course: 45.03.04). My main specialization is Machine Learning, but I also have some experience in backend programming, writing Discord and Telegram bots, C++ and Linux administration (I am a proud Debian-based distro user for 5 years and counting). 
+My name is **Zakhar**. I am a second-year student at ITMO University (course: 45.03.04). My main specialization is Machine Learning, but I also have some experience in backend programming, writing Discord and Telegram bots, C++ and Linux administration (I am a proud Debian-based distro user for 5 years and counting). 
 
 ### Bullet points
 
