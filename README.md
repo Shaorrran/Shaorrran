@@ -12,8 +12,6 @@ My name is **Zakhar**. I am a second-year student at ITMO University (course: 45
 - How to reach me: 
   * Telegram: @sha0rrran
   * Discord: Shaorrran#2664
-  * Twitter: https://twitter.com/shaorrran
-- Fun fact: There is no place for fun facts anymore.
 
 ### Stats
 
