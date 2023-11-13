@@ -16,4 +16,4 @@ My name is **Zakhar**. I am a second-year student at ITMO University (course: 45
 ### Stats
 
 
-[//]: # ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaorrran&show_icons=true?count_private=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaorrran&show_icons=true?count_private=true&theme=tokyonight)
