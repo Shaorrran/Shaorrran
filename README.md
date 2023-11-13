@@ -11,7 +11,7 @@ My name is **Zakhar**. I am a second-year student at ITMO University (course: 45
 - My projects: most of my projects are listed on my Github profile (here), feel free to check out any repository you feel interested in.
 - How to reach me:
   * Telegram: @sha0rrran
-  * Discord: Shaorrran#2664
+  * Discord: @shaorrran
 
 ### Stats
 
